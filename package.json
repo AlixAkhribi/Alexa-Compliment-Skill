@@ -1,0 +1,11 @@
+{
+  "name": "Alexa-Compliment-Skill",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AlixAkhribi/Alexa-Compliment-Skill.git",
+  "author": "AlixAkhribi",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25"
+  }
+}
